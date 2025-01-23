@@ -82,3 +82,8 @@ environment/*
 crime_prediction_model.pkl
 predicted_crime_with_top_crimes.csv
 top_5_crimes_by_state.csv
+predicted_crime_data.csv
+combined_data.csv
+preprocessed_crime_data.csv
+future_crime_predictions.csv
+yearly_crime_analysis.csv
