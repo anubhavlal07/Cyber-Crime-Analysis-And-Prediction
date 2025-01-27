@@ -58,7 +58,7 @@ Clone the repository:
 ## Screenshots
 **Tableau Dashboard**
 
-![App Screenshot](https://raw.githubusercontent.com/anubhavlal07/Cyber-Crime-Analysis-And-Prediction/refs/heads/main/cyberCrimeDashboard.png?token=GHSAT0AAAAAACYRDV5RTS2IB2BSNQ32UC46Z4XSHJA)
+![App Screenshot](https://raw.githubusercontent.com/anubhavlal07/Cyber-Crime-Analysis-And-Prediction/refs/heads/main/cyberCrimeDashboard.png)
 
 ## Contributing
 
